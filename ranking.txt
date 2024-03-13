@@ -1,0 +1,10 @@
+1	demo	4750
+2	test	3750
+3	test	3750
+4	test	3250
+5	test	3000
+6	test	3000
+7	aaaa	3000
+8	test	2500
+9	test	2500
+10	demo	2500
